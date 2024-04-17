@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Show Optional Note" android:id="@+id/courseShowNotes"/>
+    <item android:title="Notify Start Date" android:id="@+id/courseNotifyStart"/>
+    <item android:title="Notify End Date" android:id="@+id/courseNotifyEnd"/>
+    <item android:title="Share" android:id="@+id/courseShare"/>
+    <item android:title="Delete" android:id="@+id/courseDelete"/>
+    <item android:title="Refresh" android:id="@+id/courseRefresh"/>
+
+</menu>
